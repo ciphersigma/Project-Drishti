@@ -28,11 +28,11 @@ The system operates in two modes: LIVE mode for real-world deployment and DEMO m
 
 ### Images
 
-<p align="center"><img src="/drishti-dashboard/public/cover.jpg" width="800"><br/><i>MYOSA Crowd Monitoring Unit with OLED display showing real-time sensor data and risk assessment</i></p>
+<p align="center"><img src="cover.jpg" width="800"><br/><i>MYOSA Crowd Monitoring Unit with OLED display showing real-time sensor data and risk assessment</i></p>
 
-<p align="center"><img src="/drishti-dashboard/public/sensor-layout.jpeg" width="600"><br/><i>Internal sensor configuration: MPU6050 accelerometer, BMP085 pressure sensor, and APDS9960 proximity sensor</i></p>
+<p align="center"><img src="drishti-sensor-layout.jpeg" width="600"><br/><i>Internal sensor configuration: MPU6050 accelerometer, BMP085 pressure sensor, and APDS9960 proximity sensor</i></p>
 
-<p align="center"><img src="/drishti-dashboard/public/dashboard.jpeg" width="800"><br/><i>Web dashboard displaying crowd risk indicators and historical data from multiple CMU devices</i></p>
+<p align="center"><img src="drishti-dashboard.jpeg" width="800"><br/><i>Web dashboard displaying crowd risk indicators and historical data from multiple CMU devices</i></p>
 
 ### Videos
 
