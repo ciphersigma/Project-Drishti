@@ -1,13 +1,15 @@
 
-publishDate: 2024-12-19
+---
+publishDate: 2024-12-19T00:00:00Z
 title: MYOSA Crowd Monitoring Unit (CMU) - AI-Enhanced Safety System
 excerpt: An IoT-based crowd monitoring system that uses multiple sensors and AI analysis to detect dangerous crowd conditions and prevent stampedes in real-time.
 image: cover.jpg
 tags:
-  - iot
-  - safety
-  - crowd-monitoring
-
+- iot
+- safety
+- crowd-monitoring
+- public-security
+---
 
 > Real-time crowd safety monitoring with AI-powered risk assessment to prevent stampedes and ensure public safety.
 
