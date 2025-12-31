@@ -1,6 +1,6 @@
 ---
 publishDate: 2024-12-19T00:00:00Z
-title: MYOSA Crowd Monitoring Unit (CMU) - AI-Enhanced Safety System
+title: Project Drishti - AI-Enhanced Safety System
 excerpt: An IoT-based crowd monitoring system that uses multiple sensors and AI analysis to detect dangerous crowd conditions and prevent stampedes in real-time.
 image: cover.jpg
 tags:
@@ -14,11 +14,11 @@ tags:
 
 ## Acknowledgements
 
-This project was developed as part of the MYOSA 4.0 initiative for APSCON 2026. Special thanks to the safety engineering community and crowd dynamics researchers who provided valuable insights into crowd behavior patterns and risk assessment methodologies.
+We thank IEEE, the MYOSA initiative, and Prof. Digant Parmar from Silver Oak University for their guidance and mentorship throughout the development of this project.
 
 ## Overview
 
-The MYOSA Crowd Monitoring Unit (CMU) is an intelligent IoT device designed to monitor crowd conditions in real-time and prevent dangerous situations like stampedes. The system combines multiple environmental sensors with AI-powered analysis to assess crowd risk levels and provide immediate alerts to safety personnel.
+Project Drishti is an intelligent IoT device designed to monitor crowd conditions in real-time and prevent dangerous situations like stampedes. The system combines multiple environmental sensors with AI-powered analysis to assess crowd risk levels and provide immediate alerts to safety personnel.
 
 The device addresses the critical need for proactive crowd safety management in public spaces, events, and transportation hubs. By continuously monitoring vibration patterns, pressure changes, proximity data, and temperature variations, the CMU can detect early signs of crowd distress and overcrowding before they escalate into dangerous situations.
 
@@ -28,7 +28,7 @@ The system operates in two modes: LIVE mode for real-world deployment and DEMO m
 
 ### Images
 
-<p align="center"><img src="cover.jpg" width="800"><br/><i>MYOSA Crowd Monitoring Unit with OLED display showing real-time sensor data and risk assessment</i></p>
+<p align="center"><img src="cover.jpg" width="800"><br/><i>Project Drishti with OLED display showing real-time sensor data and risk assessment</i></p>
 
 <p align="center"><img src="drishti-sensor-layout.jpeg" width="600"><br/><i>Internal sensor configuration: MPU6050 accelerometer, BMP085 pressure sensor, and APDS9960 proximity sensor</i></p>
 
@@ -36,12 +36,12 @@ The system operates in two modes: LIVE mode for real-world deployment and DEMO m
 
 ### Videos
 
-<video controls width="100%"><source src="/drishti-dashboard/public/drishti-demo.mp4" type="video/mp4"></video>
+<video controls width="100%"><source src="drishti-demo.mp4" type="video/mp4"></video>
 
 ## Features (Detailed)
 
 ### Multi-Sensor Data Fusion
-The CMU integrates three primary sensors to create a comprehensive crowd monitoring solution. The MPU6050 accelerometer detects ground vibrations caused by crowd movement, the BMP085 pressure sensor monitors atmospheric pressure changes in enclosed spaces, and the APDS9960 proximity sensor measures local crowd density. All sensor data is processed through advanced filtering algorithms to eliminate noise and provide accurate readings.
+Project Drishti integrates three primary sensors to create a comprehensive crowd monitoring solution. The MPU6050 accelerometer detects ground vibrations caused by crowd movement, the BMP085 pressure sensor monitors atmospheric pressure changes in enclosed spaces, and the APDS9960 proximity sensor measures local crowd density. All sensor data is processed through advanced filtering algorithms to eliminate noise and provide accurate readings.
 
 ### AI-Enhanced Risk Assessment
 The system incorporates artificial intelligence algorithms that analyze sensor patterns and historical data to predict crowd risk levels. The AI component calculates crowd count estimates, density measurements, and provides risk classifications (SAFE, CAUTION, WARNING, CRITICAL) based on learned crowd behavior patterns. This enables proactive intervention before dangerous conditions develop.
@@ -104,7 +104,7 @@ MQTT Command Examples:
 ```
 MYOSA/
 ├── firmware_fixed.ino          # Main firmware code
-├── myosa-crowd-monitoring-unit.md  # This documentation
+├── project-drishtit.md  # This documentation
 ├── cover.jpg                   # Device photo
 ├── drishti-sensor-layout.jpeg    # Hardware layout
 ├── drishti-dashboard.jpeg      # Dashboard screenshot
