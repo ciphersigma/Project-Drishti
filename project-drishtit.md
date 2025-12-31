@@ -1,5 +1,5 @@
 ---
-publishDate: 2024-12-19T00:00:00Z
+publishDate: 2025-12-30
 title: Project Drishti - AI-Enhanced Safety System
 excerpt: An IoT-based crowd monitoring system that uses multiple sensors and AI analysis to detect dangerous crowd conditions and prevent stampedes in real-time.
 image: cover.jpg
