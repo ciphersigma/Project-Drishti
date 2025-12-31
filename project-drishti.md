@@ -1,4 +1,3 @@
-
 ---
 publishDate: 2024-12-19T00:00:00Z
 title: MYOSA Crowd Monitoring Unit (CMU) - AI-Enhanced Safety System
